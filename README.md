@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! I'm Lorenzo 👋
+
+- 🇧🇷 I'm from Brazil
+- 🔭 I’m currently working on my [personal website](https://www.lorenzomzrot.com)
+- 📚 Upcoming Apple Developer Academy student
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me: [lorenzomzrot.com/contact](https://www.lorenzomzrot.com/contact)
 
 <!--
 **lorenzomzrot/lorenzomzrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
